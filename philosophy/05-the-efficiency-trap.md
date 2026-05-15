@@ -1,20 +1,24 @@
 # The Efficiency Trap
 
-*[← AI for Engineers is Clear. AI for Managers is Not.](./01-the-em-inflection-point.md) | [Home](../README.md) | [Next →](./04-the-objectivity-problem.md)*
+*[← The Context Problem](./04-the-context-problem.md) | [Home](../README.md) | [Next →](../journey/01-discovery.md)*
 
 ---
 
-I automated the meeting prep. I automated the follow-up notes. I automated the status updates. I got hours back every week and thought I was onto something transformational.
+Once the context layer was in place, I started building on top of it.
 
-But I was still doing the same things. Just faster. I had to ask myself an honest question: *was I actually leading better?*
+Meeting prep, 1:1 follow-ups, status updates, catch-me-up briefs after an absence — I built skills for all of it. And they worked. Not just marginally — they genuinely worked. I was showing up to 1:1s more prepared than I'd ever been. I was following through on things I would have previously forgotten. I was recovering from a week off in an hour instead of a day. I got hours back every week and, for a while, it felt like the breakthrough I'd been looking for.
 
-The answer was no. A meeting ended and the next one started. The same reactive churn, just at a higher speed.
+Then a quieter question started surfacing. I'd finish a 1:1, feel good about how prepared I was, and notice that a meeting ended and the next one started — the same rhythm as before, just with better notes. I had to ask myself honestly: *was I actually leading better, or just moving through the same motions faster?*
+
+The answer was uncomfortable.
 
 ---
 
 ## The Trap
 
-The efficiency trap is this: when I automate what I'm already doing, I get more time to do more of what I'm already doing. But if what I was already doing wasn't the highest-leverage use of my time, speed doesn't change that. It just compounds it.
+The efficiency trap works like this. Automation frees up time. That freed time gets filled — naturally, reflexively — with more of the same kind of work that was just automated. Volume increases, pace increases, output increases. But the underlying question — *whether any of this was making me a more effective leader* — never gets asked.
+
+If I was already spending time on the wrong things, moving faster just means spending more time on the wrong things. The trap isn't inefficiency — it's optimizing in the wrong direction without realizing it.
 
 For engineers, this is manageable. The feedback loop is tight. Ship something, it works or it doesn't, adjust. The work and the result are close together.
 
@@ -26,35 +30,39 @@ Efficiency is fine. It's a means, not an end. The real question is: toward what?
 
 ## What Real Impact Requires
 
-Efficiency problems are tool problems. The right capabilities, fewer friction points, faster execution.
+I had proven that efficiency problems are tool problems — the right capabilities, fewer friction points, faster execution. I had built that, and it worked.
 
-Impact problems are direction problems. Knowing which direction is right requires a different kind of support than a faster tool.
+But impact problems are judgment problems. Knowing which direction is right, which relationships need tending, which conversations actually mattered — that requires a different kind of support than a faster tool.
 
-For me, direction means:
+The standard I needed — external, honest, not filtered through my own blind spots — was something I'd already named. The efficiency tools I'd built weren't delivering it. They were executing tasks within my role, not evaluating whether I was performing it well.
 
-- Understanding where my attention has actually been going versus where it should go
-- Knowing which team members are getting quality time and which are being underserved
-- Seeing which responsibilities are being handled well and which are quietly accumulating as gaps
-- Having a framework for what "good leadership" looks like that lives outside my own head
-
-A tool can help with the first three if it has access to the right data. The fourth one is harder — it requires grounding in expectations that are external to me, not just my own intuition about what good looks like.
-
-That's the problem the later layers of this system are designed to solve. Not efficiency. Direction.
+I had solved the efficiency question. Now I needed to solve the direction question.
 
 ---
 
-## The Insight
+## Two Phases
 
-Here's what I learned: AI-augmented work has two distinct phases, and most people stop at the first one.
+Stepping back, I could see the shape of what had happened. There were two distinct phases to this work — and I had just realized I was only halfway there.
 
-**Phase one** is automation: take the things you already do and do them faster, more consistently, with less manual effort. This is real value. It's worth doing. But it's not leadership improvement — it's operational improvement.
+**Phase one** is automation: take the things I was already doing and do them faster, more consistently, with less manual effort. Real value. Worth doing. But not leadership improvement — operational improvement.
 
-**Phase two** is reflection: use the systems you've built to look at your work differently, ask harder questions about where your time is going, and surface the things you're not seeing because the urgent is always crowding out the important.
+**Phase two** is reflection: use the systems I'd built to look at my work differently, ask harder questions about where my time was going, and surface the things I wasn't seeing because the urgent was always crowding out the important.
 
 Phase two is harder to build. It requires the system to know my role deeply enough to evaluate my performance against it — not just execute tasks within it.
 
-The efficiency trap is getting to phase one and thinking that's enough.
 
 ---
 
-*[← The Context Problem](./02-the-context-problem.md) | [Home](../README.md) | [The Objectivity Problem →](./04-the-objectivity-problem.md)*
+## Closing the Loop
+
+Phase two required something different in kind. Not a skill that executes a task within my role, but a system that knows my role deeply enough to ask whether I'm performing it well.
+
+That's what I set out to build. Not another automation. A thought partner — one that holds the accumulated context of my world, tracks signals across the full scope of EM workflows, and surfaces the questions I'm not asking because the daily grind is too loud.
+
+That's the EM skill. A system designed not to help me move faster, but to help me lead more deliberately.
+
+The five essays in this section are the why. What follows is the how.
+
+---
+
+*[← The Context Problem](./04-the-context-problem.md) | [Home](../README.md) | [Discovery →](../journey/01-discovery.md)*
