@@ -36,22 +36,16 @@ What emerged isn't just a productivity system. It's a framework that has made me
 
 ## What's Here
 
-This repo is organized into four sections:
+This repo is organized into three sections:
 
 ### [Philosophy](./philosophy/)
 Five essays on the underlying challenges that make AI-augmented EM both necessary and non-obvious. Each one stands alone. Start here if you want the thinking before the building.
 
 - [The EM Inflection Point](./philosophy/01-the-em-inflection-point.md) — Why the directive to "use AI" hits differently when your job is people, not code
-- [The Context Problem](./philosophy/02-the-context-problem.md) — EM work is a context-maintenance problem, and context is expensive
-- [The Efficiency Trap](./philosophy/03-the-efficiency-trap.md) — Getting faster is not the same as getting better
-- [The Objectivity Problem](./philosophy/04-the-objectivity-problem.md) — AI is trained to be helpful, which makes it dangerously affirming
-- [The Altitude Problem](./philosophy/05-the-altitude-problem.md) — The EM role is strategic; everything about the day-to-day pulls you tactical
-
-### [Journey](./journey/)
-The story of how this system came to be — the frustrations, the insights, and the pivots.
-
-- [Discovery](./journey/01-discovery.md) — Teaching an AI your world, and what it costs to not do that
-- [Evolution](./journey/02-evolution.md) — From ad-hoc tool to custom skills to the bigger question
+- [Objectivity as the Standard](./philosophy/02-objectivity-as-the-standard.md) — What management excellence has always required, and why it's been so hard to achieve
+- [Finally, the Data](./philosophy/03-finally-the-data.md) — Why AI is the first technology that can actually deliver on that ideal
+- [The Context Problem](./philosophy/04-the-context-problem.md) — EM work is a context-maintenance problem, and context is expensive
+- [The Efficiency Trap](./philosophy/05-the-efficiency-trap.md) — Getting faster is not the same as getting better
 
 ### [Solution](./solution/)
 The architecture of what I built: a layered system that starts with persistent context and builds up to strategic leadership support.
