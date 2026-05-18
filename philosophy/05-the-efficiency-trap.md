@@ -1,6 +1,6 @@
 # The Efficiency Trap
 
-*[← The Context Problem](./04-the-context-problem.md) | [Home](../README.md) | [Next →](../journey/01-discovery.md)*
+*[← The Context Problem](./04-the-context-problem.md) | [Home](../README.md) | [Next →](../solution/00-overview.md)*
 
 ---
 
@@ -65,4 +65,4 @@ The five essays in this section are the why. What follows is the how.
 
 ---
 
-*[← The Context Problem](./04-the-context-problem.md) | [Home](../README.md) | [Discovery →](../journey/01-discovery.md)*
+*[← The Context Problem](./04-the-context-problem.md) | [Home](../README.md) | [The Solution →](../solution/00-overview.md)*

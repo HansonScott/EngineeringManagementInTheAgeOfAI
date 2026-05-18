@@ -50,7 +50,7 @@ Five essays on the underlying challenges that make AI-augmented EM both necessar
 ### [Solution](./solution/)
 The architecture of what I built: a layered system that starts with persistent context and builds up to strategic leadership support.
 
-- [System Overview](./solution/README.md) — The full stack and why each layer exists
+- [System Overview](./solution/00-overview.md) — The full stack and why each layer exists
 - [The Data Layer](./solution/01-data-layer.md) — Memory, preferences, contacts, and the init skill
 - [Integrations](./solution/02-integrations.md) — Slack, Jira, Zoom, and Google as a unified interface
 - [Custom Skills](./solution/03-skills.md) — catch-me-up, 1:1 prep, meeting follow-up, and status updates
