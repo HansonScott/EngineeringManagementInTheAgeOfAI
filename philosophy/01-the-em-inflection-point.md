@@ -6,7 +6,7 @@
 
 When AI tools became accessible and started maturing, engineers did what engineers do: they explored. They pair-programmed with Claude and Copilot, pushed the boundaries of what code generation could handle, built internal tools overnight that would have taken sprints, and started rewriting how they approached the entire development lifecycle. Pull request reviews got faster. Test coverage got easier. Onboarding to new codebases went from weeks to days.
 
-It wasn't hype. It was genuinely impressive work. Engineers have a tight feedback loop: you write something, you run it, you know immediately whether it worked. AI slotted into that loop naturally, as a collaborator with unlimited patience and broad technical knowledge. The SDLC matured quickly: AI-assisted planning, AI-reviewed code, AI-summarized retrospectives. Teams that leaned in moved noticeably faster.
+It wasn't hype. It was genuinely impressive work. Coding has a tight feedback loop: write something, run it, know immediately whether it worked. AI slotted into that loop naturally, as a collaborator with unlimited patience and broad technical knowledge. The SDLC matured quickly: AI-assisted planning, AI-reviewed code, AI-summarized retrospectives. Teams that leaned in moved noticeably faster.
 
 Engineering managers watched all of this, and felt something specific. Not threatened. Not dismissive. Uncertain.
 
@@ -26,9 +26,9 @@ Engineering has artifacts. Code, tests, architecture diagrams, pull requests. AI
 
 Management work is different. There's a project management side of the role, and many EMs, myself included, own that fully for their teams. Tracking work, managing Jira boards, writing initiative updates, keeping stakeholders informed. That side does have artifacts, and AI can genuinely help there: drafting status updates, synthesizing sprint activity, flagging things that are off track. It's closer to what engineers do, and the efficiency gains are real.
 
-But that's not the core of the role. The actual work lives in relationships, in judgment calls, in the context you hold about your people and your team. Knowing that one of your engineers is quieter than usual this week and that it probably means something. Remembering that another one mentioned a hard conversation with their partner two months ago and checking in on them now. Deciding how to frame a difficult org change in a way that builds trust rather than eroding it.
+But that's not the core of the role. The actual work lives in relationships, in judgment calls, in the context I hold about my people and my team. Knowing that one of my engineers is quieter than usual this week and that it probably means something. Remembering that another one mentioned a hard conversation with their partner two months ago and checking in on them now. Deciding how to frame a difficult org change in a way that builds trust rather than eroding it.
 
-None of that has an obvious AI play. And the instinct to just use AI for the artifact layer: summarize this meeting, draft this email, post this update. That produces efficiency gains without touching the real job.
+None of that has an obvious AI play. The instinct is to use AI only for the artifact layer: summarize this meeting, draft this email, post this update. That produces efficiency gains without touching the real job.
 
 ---
 

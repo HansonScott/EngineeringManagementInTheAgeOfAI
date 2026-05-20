@@ -16,9 +16,9 @@ The answer was uncomfortable.
 
 ## The Trap
 
-The efficiency trap works like this. Automation frees up time. That freed time gets filled, naturally and reflexively, with more of the same kind of work that was just automated. Volume increases, pace increases, output increases. But the underlying question of whether any of this was making me a more effective leader never gets asked.
+The efficiency trap works like this. Automation frees up time. That freed time gets filled, naturally and reflexively, with more of the same kind of work that was just automated. Volume increases, pace increases, output increases. But the underlying question of whether any of this is making me a more effective leader never gets asked.
 
-If I was already spending time on the wrong things, moving faster just means spending more time on the wrong things. The trap isn't inefficiency. It's optimizing in the wrong direction without realizing it.
+If I am spending time on the wrong things, moving faster just means spending more time on the wrong things. The trap isn't inefficiency. It's optimizing in the wrong direction without realizing it.
 
 For engineers, this is manageable. The feedback loop is tight. Ship something, it works or it doesn't, adjust. The work and the result are close together.
 

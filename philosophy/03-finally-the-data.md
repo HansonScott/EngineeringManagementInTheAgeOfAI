@@ -22,13 +22,13 @@ And because it's a system rather than a person, it can do this continuously. Not
 
 ## The Leap Forward
 
-I realized AI could do something no tool before it could: take the signals that already exist in my day-to-day work, cross-reference them against a documented standard of what good management looks like, and surface the gap between where I was and where I should be.
+I realized AI could do something no tool before it could: take the signals that already exist in my day-to-day work, cross-reference them against a documented standard of what good management looks like, and surface the gap between where I think I am and where I should actually be.
 
-That's no small thing. This was the evaluation I'd never been able to get from the standard tools, not how people felt about me, but what I was actually doing and whether it matched the expectations of the role.
+That's no small thing. This is the evaluation I don't get from standard tools: not how people feel about me, but what I am actually doing and whether it matches the expectations of the role.
 
 Something shifted when I started using it seriously. Not the speed. Speed was never the point. It was the possibility that I could actually know, with some confidence, whether I was doing the job well.
 
-Management had always carried a background hum of uncertainty. Are the people on my team growing? Am I showing up the way my team deserves? These questions don't have obvious answers in the day-to-day. The feedback loop is too long, the signals too diffuse. You do your best, you trust your instincts, and you hope the gaps aren't widening somewhere you can't see.
+Management had always carried a background hum of uncertainty. Are the people on my team growing? Am I showing up the way my team deserves? These questions don't have obvious answers in the day-to-day. The feedback loop is too long, the signals too diffuse. I do my best, I trust my instincts, and I hope the gaps aren't widening somewhere I can't see.
 
 For the first time, something was able to watch those signals for me, continuously, without fatigue, against a consistent standard. Not a person with their own perspective and blind spots. A system.
 

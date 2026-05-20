@@ -16,7 +16,7 @@ The missing ingredient, I eventually realized, was objectivity. Not harsh critic
 
 ## Why the Standard Tools Don't Work
 
-Unlike the process of writing code, which has mechanisms for immediate feedback: a failing test, a compiler error, a user complaint. Management has no equivalent signal. The gap between a decision and its consequence can be months or years. And the evaluation tools that exist in that gap don't fill it well. 360-degree reviews measure how people feel about working with you. Engagement surveys capture sentiment. Performance conversations with your own manager are shaped by your relationship, your visibility, your last quarter's wins. I've sat through all of them. The feedback was often more about how I made people feel than what I actually did, closer to a popularity contest than a leadership assessment.
+Code has immediate feedback built in: a failing test, a compiler error, a user complaint. Management has no equivalent signal. The gap between a decision and its consequence can be months or years. And the evaluation tools that exist in that gap don't fill it well. 360-degree reviews measure how people feel about working with me. Engagement surveys capture sentiment. Performance conversations with my own manager are shaped by my relationship, my visibility, my last quarter's wins. I've sat through all of them. The feedback was often more about how I made people feel than what I actually did, closer to a popularity contest than a leadership assessment.
 
 What managers need is something different: an evaluation grounded in observable behavior and consistent standards. Not feelings, not relationships, not how well I presented in the last all-hands.
 

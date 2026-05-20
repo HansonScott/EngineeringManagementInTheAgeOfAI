@@ -60,7 +60,7 @@ Which means solving the context problem isn't a nice-to-have. It's the foundatio
 
 That framing gave me a clear direction. If context is infrastructure, then it needs to be built like infrastructure: deliberately, over time, not reconstructed from scratch on demand.
 
-It required more upfront investment than I expected. But the return was immediate and compounding: every session started closer to where the last one left off. The reconstruction tax dropped. The quality of every interaction improved, not because AI got smarter, but because it finally had what it needed to be useful.
+It requires more upfront investment than expected. But the return is immediate and compounding: every session starts closer to where the last one left off. The reconstruction tax drops. The quality of every interaction improves, not because AI gets smarter, but because it has what it needs to be useful.
 
 The specifics of how that infrastructure is built and maintained are in the [Solution section](../solution/01-data-layer.md). But the decision that unlocked it wasn't technical. It was accepting that if context is the work, then building it deliberately isn't overhead. It's the job.
 
