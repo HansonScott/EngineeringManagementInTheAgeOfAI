@@ -29,7 +29,7 @@ graph TD
     style D fill:#f0e8f5,stroke:#7a4a90
 ```
 
-Each layer depends on the one below it.
+Each layer enables the next.
 
 Build integrations without a data layer and the signals they return have no interpretation layer. The AI can pull a conversation or an activity log, but without knowing who the people are, what the team structure looks like, or what my role expectations are, it can only report what it sees. It can't tell me what matters.
 
