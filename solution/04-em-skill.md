@@ -76,7 +76,7 @@ Before this system, I knew my role was broad. But broad is abstract. I couldn't 
 
 The EM Skill doesn't answer those questions automatically. But it surfaces them consistently. The difference between asking yourself "am I doing a good job?" once a quarter and reviewing a structured signal log every two weeks isn't just frequency — it's quality. The question gets sharper. The answer gets more honest.
 
-The efficiency trap from the [Philosophy section](../philosophy/03-the-efficiency-trap.md) is real. This is the system I built to escape it.
+The efficiency trap from the [Philosophy section](../philosophy/05-the-efficiency-trap.md) is real. This is the system I built to escape it.
 
 ---
 
