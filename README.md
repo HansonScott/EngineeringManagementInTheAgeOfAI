@@ -54,7 +54,7 @@ The architecture of what I built: a layered system that starts with persistent c
 - [The Data Layer](./solution/01-data-layer.md) — Memory, preferences, contacts, and the init skill
 - [Integrations](./solution/02-integrations.md) — Slack, Jira, Zoom, and Google as a unified interface
 - [Custom Skills](./solution/03-skills.md) — catch-me-up, 1:1 prep, meeting follow-up, and status updates
-- [The EM Skill](./solution/04-em-skill.md) — 22 workflows, signal tracking, and the strategic pulse
+- [The EM Skill](./solution/04-em-skill.md) — 21 workflows, signal tracking, and the strategic pulse
 
 ---
 
